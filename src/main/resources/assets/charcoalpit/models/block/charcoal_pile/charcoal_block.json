@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "charcoalpit:block/charcoal_pile"
+  }
+}

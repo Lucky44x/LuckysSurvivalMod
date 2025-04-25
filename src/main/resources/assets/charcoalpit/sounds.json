@@ -1,0 +1,87 @@
+{
+  "block.charcoal.break": {
+    "subtitle": "subtitles.block.generic.break",
+    "sounds": [
+      {
+        "name": "charcoalpit:block/charcoal/dig1",
+        "pitch": 0.9
+      },
+      "charcoalpit:block/charcoal/dig1",
+      {
+        "name": "charcoalpit:block/charcoal/dig1",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "block.charcoal.fall": {
+    "subtitle": "subtitles.entity.generic.big_fall",
+    "sounds": [
+      {
+        "name": "charcoalpit:block/charcoal/dig1",
+        "pitch": 0.9
+      },
+      "charcoalpit:block/charcoal/dig1",
+      {
+        "name": "charcoalpit:block/charcoal/dig1",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "block.charcoal.hit": {
+    "subtitle": "subtitles.block.generic.hit",
+    "sounds": [
+      {
+        "name": "charcoalpit:block/charcoal/step1",
+        "pitch": 0.9
+      },
+      "charcoalpit:block/charcoal/step1",
+      {
+        "name": "charcoalpit:block/charcoal/step1",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "block.charcoal.place": {
+    "subtitle": "subtitles.block.generic.place",
+    "sounds": [
+      {
+        "name": "charcoalpit:block/charcoal/dig1",
+        "pitch": 0.9
+      },
+      "charcoalpit:block/charcoal/dig1",
+      {
+        "name": "charcoalpit:block/charcoal/dig1",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "block.charcoal.step": {
+    "subtitle": "subtitles.block.generic.footsteps",
+    "sounds": [
+      {
+        "name": "charcoalpit:block/charcoal/step1",
+        "pitch": 0.9
+      },
+      "charcoalpit:block/charcoal/step1",
+      {
+        "name": "charcoalpit:block/charcoal/step1",
+        "pitch": 1.1
+      }
+    ]
+  },
+  "item.firestarter.use": {
+    "subtitle": "subtitles.item.charcoalpit.firestarter.use",
+    "sounds": [
+        "charcoalpit:item/firestarter/use1",
+        "charcoalpit:item/firestarter/use2",
+        "charcoalpit:item/firestarter/use3",
+        "charcoalpit:item/firestarter/use4",
+        "charcoalpit:item/firestarter/use5",
+        "charcoalpit:item/firestarter/use6",
+        "charcoalpit:item/firestarter/use7",
+        "charcoalpit:item/firestarter/use8",
+        "charcoalpit:item/firestarter/use9",
+        "charcoalpit:item/firestarter/use10"
+    ]
+  }
+}
